@@ -8,7 +8,40 @@
 - 🧠 Currently focusing on: Dynamic Programming & Graphs
 
 ---
+## 🛠️ Projects (MERN Stack)
 
+| Name          | Description                                  | Tech Stack               | Link |
+|---------------|----------------------------------------------|--------------------------|------|
+| TravelHaven   | Full-stack travel planning app with maps     | MERN + Mapbox + Passport | [Repo](#) |
+| Project 2     | Description of your second project           | Tech used                | [Repo](#) |
+
+---
+
+## 📚 What I’m Learning
+
+- 📌 Advanced DSA (DP, Graphs, Tries)
+- 📌 Clean Code & Scalable Backend
+- 📌 DevOps & GitHub automation
+
+---
+
+## 📈 GitHub Activity
+
+![Anshika's GitHub Streak](https://streak-stats.demolab.com/?user=ANSHIKA-VERMA09&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHIKA-VERMA09&layout=compact&theme=dark)
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🌐 [Portfolio](https://your-portfolio.com)  
+- 📬 Reach me at: youremail@example.com
+
+---
+
+⭐ *Always building, always learning.*
 
 
 
