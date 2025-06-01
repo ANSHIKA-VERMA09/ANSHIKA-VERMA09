@@ -1,6 +1,6 @@
 ## 🚀 Anshika's LeetCode Journey
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ANSHIKA-VERMA09?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ANSHIKA-VERMA?theme=dark&font=baloo)
 
 - 🔥 112+ Problems Solved  
 - 📅 Consistently solving POD & Topic Mastery  
