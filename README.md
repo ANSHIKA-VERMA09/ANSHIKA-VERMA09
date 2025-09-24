@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Anshika Verma 👋</h1>
 <p align="center">
-  <b>3rd Year Engineering Student | Full Stack Web Developer | DSA Explorer</b>
+  <b>4th Year Engineering Student | Full Stack Web Developer | DSA Explorer</b>
 </p>
 
 ---
