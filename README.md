@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-Hey there! I'm Anshika, a third-year engineering student who talks to code more than people — and sometimes the code talks back (in errors) 😅.
+Hey there! I'm Anshika, a fourth-year engineering student who talks to code more than people — and sometimes the code talks back (in errors) 😅.
 
 🚀 Passionate about turning ideas into websites, especially if they involve e-commerce carts, cool buttons, or the occasional AI magic.
 
