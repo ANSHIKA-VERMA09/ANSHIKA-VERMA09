@@ -72,7 +72,9 @@ I’m a final-year engineering student passionate about building scalable web ap
 ## 📊 DSA & Problem Solving
 - 🔥 Solved **200+ LeetCode problems**
 - 📅 Consistent daily practice
-- 🎯 Currently focusing on **Graphs & Dynamic Programming**
+- 🧠 Active on:
+  - **LeetCode:** <your-leetcode-link>
+  - **Coding Ninjas:** <your-coding-ninjas-profile-link>
 
 ---
 
@@ -86,6 +88,8 @@ I’m a final-year engineering student passionate about building scalable web ap
 ## 🔗 Let’s Connect
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/anshika-verma94/)
 - 🌐 **Portfolio:** <link>
+- 🧠 **LeetCode:** <link>
+- 🚀 **Coding Ninjas:** <link>
 - 📬 **Email:** Anshika94verma@gmail.com
 
 ⭐ Always learning. Always building. Always improving.
