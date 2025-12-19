@@ -72,7 +72,7 @@ I’m a final-year engineering student passionate about building scalable web ap
 ## 📊 DSA & Problem Solving
 
 ### 🧠 LeetCode (Real-Time Stats)
-![LeetCode Stats]((https://leetcode.com/u/ANSHIKA-VERMA/))
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=ANSHIKA-VERMA&theme=dark)
 
 - 🔥 Solved **200+ problems**
 - 📅 Consistent daily practice
@@ -84,7 +84,7 @@ I’m a final-year engineering student passionate about building scalable web ap
 ### 🚀 Coding Ninjas
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Profile-orange)]((https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2))
 
-🔗 <(https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2)>
+🔗 (https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2)
 
 ---
 
