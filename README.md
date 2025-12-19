@@ -84,7 +84,7 @@ I’m a final-year engineering student passionate about building scalable web ap
 ---
 
 ## 🔗 Let’s Connect
-- 💼 **LinkedIn:** [<link>](https://www.linkedin.com/in/anshika-verma94/)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/anshika-verma94/)
 - 🌐 **Portfolio:** <link>
 - 📬 **Email:** Anshika94verma@gmail.com
 
