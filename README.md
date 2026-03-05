@@ -1,5 +1,5 @@
 # Hi, I'm Anshika Verma 👋
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+MERN+Stack;DSA (500);Coding+Mentor;Cloud+Learner;Cloud+Deployement;&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+MERN+Stack;DSA+Enthusiast;Coding+Mentor;Cloud+Learner&center=true&width=500&height=50">
 🎓B.Tech Computer Science (Cloud Computing) — Class of 2026
 
 I’m a final-year engineering student passionate about building scalable web applications and solving complex problems using **Data Structures & Algorithms**.
