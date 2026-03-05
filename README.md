@@ -1,6 +1,10 @@
 # Hi, I'm Anshika Verma 👋
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+MERN+Stack;DSA+Enthusiast;Coding+Mentor;Cloud+Learner&center=true&width=500&height=50">
-🎓B.Tech Computer Science (Cloud Computing) — Class of 2026
+
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;DSA+Problem+Solver;Coding+Mentor;Cloud+Learner&left=true&width=500&height=40&color=000000">
+</p>
+
+🎓 **B.Tech Computer Science (Cloud Computing) — Class of 2026**
 
 I’m a final-year engineering student passionate about building scalable web applications and solving complex problems using **Data Structures & Algorithms**.
 
@@ -10,7 +14,7 @@ I enjoy turning ideas into real-world applications — from designing backend sy
 
 ---
 
-## 🧠 Coding & Problem Solving Profiles
+# 🧠 Coding & Problem Solving Profiles
 
 <p align="left">
 
@@ -18,111 +22,148 @@ I enjoy turning ideas into real-world applications — from designing backend sy
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="YOUR_CODE360_LINK">
-<img src="https://img.shields.io/badge/Code360-CodingNinjas-orange?style=for-the-badge"/>
-</a>
-
 <a href="YOUR_HACKERRANK_LINK">
 <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
 </a>
 
+<a href="YOUR_CODE360_LINK">
+<img src="https://img.shields.io/badge/Code360-CodingNinjas-orange?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-- 🧩 **200+ DSA problems solved**
-- 📈 Consistent practice across multiple platforms
-- 💡 Strong foundation in **OOPS, DBMS, Computer Networks & Algorithms**
+🧩 **200+ DSA problems solved**
+
+📈 Consistent coding practice across multiple platforms
+
+💡 Strong understanding of **Algorithms, OOPS, DBMS & Computer Networks**
 
 ---
 
-## 👩‍🏫 Coding Mentorship
+# 👩‍🏫 Coding Mentorship
 
-Alongside development, I’ve mentored **20+ students in Python, Scratch, Data Sturtures and Algorithms , AI **, helping them improve their programming fundamentals and problem-solving skills.
+Alongside development, I’ve mentored **20+ students in Python, Scratch, Data Structures & Algorithms, and AI**, helping them improve their programming fundamentals and problem-solving skills.
 
-Key contributions:
-- Designed beginner-friendly coding exercises
-- Conducted structured programming lessons
-- Helped students improve coding performance by **~40%**
+### Key Contributions
 
-Teaching coding has strengthened my ability to **break down complex problems and write cleaner, more understandable code**.
+✔ Designed beginner-friendly coding exercises  
+✔ Conducted structured programming lessons  
+✔ Helped students improve coding performance by **~40%**  
+
+Teaching coding strengthened my ability to break down complex problems and write cleaner, more understandable code.
 
 ---
-## 🛠️ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
+# 🛠️ Tech Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,html,css,python"/>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-## 📊 GitHub Stats
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker"/>
+
+### 📚 CS Fundamentals
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Problem%20Solving-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-Concepts-important?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-Database%20Design-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-Networking-orange?style=for-the-badge"/>
+
+### 🎓 Teaching & Mentoring Skills
+<img src="https://img.shields.io/badge/Teaching-Coding%20Mentorship-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Presentation-Skills-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Technical%20Training-Workshops-orange?style=for-the-badge"/>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANSHIKA-VERMA09&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ANSHIKA-VERMA09&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSHIKA-VERMA09&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSHIKA-VERMA09&theme=tokyonight"/>
 
 </p>
 
-## 🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-## 🚀 Featured Projects
 
-### 🛒 ZipMart – Cloud Based E-commerce Platform
-Tech: Node.js • IBM Cloud • Cloudant • Watson Assistant
+---
+
+# 🚀 Featured Projects
+
+## 🛒 ZipMart – Cloud Based E-commerce Platform
+
+![ZipMart UI](ADD_PROJECT_SCREENSHOT_HERE)
+
+**Tech:** Node.js • IBM Cloud • Cloudant • Watson Assistant
 
 ✔ Product management system  
 ✔ Order processing workflow  
 ✔ AI chatbot for support  
 ✔ Deployed using IBM Code Engine  
 
-🔗 Live Demo | 🔗 Repository
+🔗 **Live Demo:** ADD_LINK  
+🔗 **Repository:** ADD_LINK
 
 ---
 
-### 🌍 TravelHaven – Full Stack Travel Platform
-Tech: Node.js • Express • MongoDB • Mapbox
+## 🌍 TravelHaven – Full Stack Travel Platform
+
+![TravelHaven UI](ADD_PROJECT_SCREENSHOT_HERE)
+
+**Tech:** Node.js • Express • MongoDB • Mapbox
 
 ✔ Authentication & Authorization  
 ✔ Reviews and ratings system  
 ✔ Interactive maps integration  
 ✔ MVC architecture  
 
-🔗 Live Demo | 🔗 Repository
+🔗 **Live Demo:** ADD_LINK  
+🔗 **Repository:** ADD_LINK
 
 ---
 
-### 📈 InvestIQ – Trading Platform
-Tech: React 
+## 📈 InvestIQ – Trading Platform
 
+![InvestIQ UI](ADD_PROJECT_SCREENSHOT_HERE)
 
+**Tech:** React
 
-🔗 Live Demo | 🔗 Repository
+A frontend trading dashboard interface that allows users to visualize stock data and manage investment portfolios through an interactive UI.
 
+✔ Responsive trading dashboard  
+✔ Portfolio visualization  
+✔ Clean component-based React architecture  
 
+🔗 **Live Demo:** ADD_LINK  
+🔗 **Repository:** ADD_LINK
 
-## 📬 Connect With Me
+---
+
+# 📬 Connect With Me
 
 💼 LinkedIn  
+https://www.linkedin.com/in/anshika-verma94/
+
 🌐 Portfolio  
-📧 Email
+ADD_PORTFOLIO_LINK
+
+📧 Email  
+Anshika94Verma@gmail.com
