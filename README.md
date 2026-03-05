@@ -82,3 +82,7 @@ Teaching coding has strengthened my ability to **break down complex problems and
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSHIKA-VERMA09&theme=tokyonight" />
 
 </p>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
