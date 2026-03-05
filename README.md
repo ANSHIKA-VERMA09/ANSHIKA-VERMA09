@@ -110,8 +110,9 @@ Teaching coding strengthened my ability to break down complex problems and write
 
 ## 🛒 ZipMart – Cloud Based E-commerce Platform
 
-![ZipMart UI](<img width="1914" height="934" alt="image" src="https://github.com/user-attachments/assets/e0a6fb95-0d12-4066-b88e-63d479c6303c" />
-)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e0a6fb95-0d12-4066-b88e-63d479c6303c" width="900"/>
+</p>
 
 **Tech:** Node.js • IBM Cloud • Cloudant • Watson Assistant
 
@@ -127,8 +128,9 @@ Teaching coding strengthened my ability to break down complex problems and write
 
 ## 🌍 TravelHaven – Full Stack Travel Platform
 
-![TravelHaven UI](<img width="1138" height="601" alt="image" src="https://github.com/user-attachments/assets/677e2d81-3658-4f5f-a08f-2784e0c7c0c6" />
-)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/677e2d81-3658-4f5f-a08f-2784e0c7c0c6" width="900"/>
+</p>
 
 **Tech:** Node.js • Express • MongoDB • Mapbox
 
@@ -144,8 +146,9 @@ Teaching coding strengthened my ability to break down complex problems and write
 
 ## 📈 InvestIQ – Trading Platform
 
-![InvestIQ UI](<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/fa86af14-f880-4c9b-8365-07f18c5f243c" />
-)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/fa86af14-f880-4c9b-8365-07f18c5f243c" width="900"/>
+</p>
 
 **Tech:** React
 
@@ -157,7 +160,6 @@ A frontend trading dashboard interface that allows users to visualize stock data
 
 🔗 **Live Demo:** ADD_LINK  
 🔗 **Repository:** ADD_LINK
-
 ---
 
 # 📬 Connect With Me
