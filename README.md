@@ -121,8 +121,8 @@ Teaching coding strengthened my ability to break down complex problems and write
 ✔ AI chatbot for support  
 ✔ Deployed using IBM Code Engine  
 
-🔗 **Live Demo:** ADD_LINK  
-🔗 **Repository:** ADD_LINK
+🔗 **Live Demo:**[ ADD_LINK ](https://e-commercewebsite-67fk.onrender.com/) 
+🔗 **Repository:**[ ADD_LINK](https://github.com/ANSHIKA-VERMA09/E-commerceWebsite-Project-)
 
 ---
 
