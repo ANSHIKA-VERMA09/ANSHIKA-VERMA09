@@ -14,15 +14,15 @@ I enjoy turning ideas into real-world applications — from designing backend sy
 
 <p align="left">
 
-<a href="https://leetcode.com/u/ANSHIKA-VERMA/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2">
-<img src="https://img.shields.io/badge/Coding%20Ninjas-Code360-orange?style=for-the-badge"/>
+<a href="YOUR_CODE360_LINK">
+<img src="https://img.shields.io/badge/Code360-CodingNinjas-orange?style=for-the-badge"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="YOUR_HACKERRANK_LINK">
 <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
 </a>
 
