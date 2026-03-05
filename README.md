@@ -37,7 +37,7 @@ I enjoy turning ideas into real-world applications — from designing backend sy
 
 ## 👩‍🏫 Coding Mentorship
 
-Alongside development, I’ve mentored **20+ students in Python, Scratch, and JavaScript**, helping them improve their programming fundamentals and problem-solving skills.
+Alongside development, I’ve mentored **20+ students in Python, Scratch, Data Sturtures and Algorithms , AI **, helping them improve their programming fundamentals and problem-solving skills.
 
 Key contributions:
 - Designed beginner-friendly coding exercises
