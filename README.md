@@ -47,3 +47,29 @@ Key contributions:
 Teaching coding has strengthened my ability to **break down complex problems and write cleaner, more understandable code**.
 
 ---
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
