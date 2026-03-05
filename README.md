@@ -119,7 +119,7 @@ Tech: React
 
 🔗 Live Demo | 🔗 Repository
 
-![](https://komarev.com/ghpvc/?username=ANSHIKA-VERMA09&color=blue)
+
 
 ## 📬 Connect With Me
 
