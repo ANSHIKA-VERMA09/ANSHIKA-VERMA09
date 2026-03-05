@@ -72,3 +72,13 @@ Teaching coding has strengthened my ability to **break down complex problems and
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ANSHIKA-VERMA09&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSHIKA-VERMA09&theme=tokyonight" />
+
+</p>
