@@ -1,105 +1,61 @@
 # Hi, I'm Anshika Verma 👋  
-**4th Year Engineering Student | Full Stack Web Developer | DSA Enthusiast**
 
-I’m a final-year engineering student passionate about building scalable web applications and strengthening problem-solving skills through Data Structures & Algorithms. I enjoy turning ideas into real-world products using modern web technologies.
+### Software Engineer | AI-Integrated Full-Stack Applications | Java • MERN • Cloud Deployment
 
----
+I design and build scalable web applications and backend systems that solve real-world problems with measurable impact.
 
-## 👩‍💻 About Me
-- 🔭 Currently focused on **Full Stack Development (MERN)** and **DSA for interviews**
-- 🧠 Strong fundamentals in **OOPS, DBMS, CN, REST APIs**
-- 🚀 Actively preparing for **SDE Intern & Full-Time roles**
-- ☕ Debug-first, coffee-powered developer
+During my recent Software Engineering Internship, I:
+- Built a full-stack personal finance platform handling 100+ monthly transactions  
+- Integrated an AI-based expense prediction model with 85% accuracy  
+- Improved UI efficiency by 30% and increased user retention by 15%  
+- Deployed applications using IBM Cloud infrastructure  
 
----
-
-## 🚩 Featured Projects (Top 3)
-
-### 🛒 ZipMart Store – Cloud-Based E-commerce Platform
-**Tech:** HTML, CSS, JavaScript, Node.js, IBM Cloudant, IBM Watson Assistant  
-**Highlights:**
-- Product & user management  
-- Order processing system  
-- Integrated AI chatbot for customer support  
-- Deployed on IBM Cloud (Code Engine)
-
-🔗 **Live:** <paste-live-link> | **Code:** <paste-repo-link>
+I combine strong Computer Science fundamentals with practical engineering experience to develop production-ready systems.
 
 ---
 
-### 🧳 TravelHaven – Full Stack Travel Website
-**Tech:** EJS, Node.js, Express.js, MongoDB Atlas, Passport.js, Mapbox  
-**Highlights:**
-- Authentication & authorization  
-- CRUD operations with MVC architecture  
-- Interactive maps, reviews & ratings  
-- File uploads and dark mode  
+## 👩‍💻 Engineering Focus
 
-🔗 **Live:** <paste-live-link> | **Code:** <paste-repo-link>
+- Full-Stack Development using MERN  
+- Backend system design & REST API architecture  
+- Database modeling & optimization  
+- Cloud deployment & scalable hosting  
+- Data Structures & Algorithms (200+ problems solved)
 
 ---
 
-### 📈 InvestIQ – Full Stack Trading Platform
-**Tech:** React, Bootstrap, Node.js, Express.js, MongoDB  
-**Highlights:**
-- RESTful APIs  
-- User authentication  
-- Scalable backend architecture  
+## 🚀 Core Technical Skills
 
-🔗 **Live:** <paste-live-link> | **Code:** <paste-repo-link>
-
----
-
-## 🧪 Other Projects
-- 🎮 **Simon Game** – Logic-based browser game  
-- 🌐 **Quote Website** – Dynamic quotes using EJS & npm  
-- 🎥 **Connectify** – Video conferencing platform  
-- 💼 **CareerLink** – Professional networking platform  
-- 📦 **RepoHub** – Code hosting platform  
-
----
-
-## 🛠️ Tech Stack
-**Languages:** JavaScript, Java, HTML5, CSS3  
+**Languages:** Java, JavaScript  
 **Frontend:** React.js, Tailwind CSS, Bootstrap, EJS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, IBM Cloudant, IBM Db2  
-**Cloud:** IBM Cloud, IBM Code Engine  
-**Core CS:** OOPS, DBMS, CN, System Design, MVC Architecture  
+**Cloud:** IBM Cloud, Code Engine  
+**Core CS:** OOPS, DBMS, Computer Networks, MVC Architecture, System Design Basics  
 
 ---
 
-## 📊 DSA & Problem Solving
+## 📊 Problem Solving & Competitive Coding
 
-### 🧠 LeetCode (Real-Time Stats)
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=ANSHIKA-VERMA&theme=dark)
+- Solved 200+ DSA problems across platforms  
+- Consistent practice in SQL & backend logic  
+- Strong understanding of time & space complexity optimization  
 
-- 🔥 Solved **200+ problems**
-- 📅 Consistent daily practice
-
-🔗 https://leetcode.com/u/ANSHIKA-VERMA/
-
----
-
-### 🚀 Coding Ninjas
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Profile-orange)]((https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2))
-
-🔗 (https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2)
+🔗 LeetCode: https://leetcode.com/u/ANSHIKA-VERMA/  
+🔗 Code360: https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2  
 
 ---
 
 ## 🌱 Currently Learning
+
 - Advanced DSA patterns  
-- Scalable backend design  
-- System design basics for interviews  
+- Scalable backend architecture  
+- System design fundamentals for production systems  
 
 ---
 
-## 🔗 Let’s Connect
-- 💼 **LinkedIn:** https://www.linkedin.com/in/anshika-verma94/
-- 🌐 **Portfolio:** (https://leetcode.com/u/ANSHIKA-VERMA/)
-- 🧠 **LeetCode:** (https://leetcode.com/u/ANSHIKA-VERMA/)
-- 🚀 **Coding Ninjas:** (https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2)
-- 📬 **Email:** Anshika94verma@gmail.com  
+## 📬 Connect With Me
 
-⭐ Always learning. Always building. Always improving.
+💼 LinkedIn: https://www.linkedin.com/in/anshika-verma94/  
+🌐 Portfolio: <add-your-portfolio-link-here>  
+📧 Email: Anshika94Verma@gmail.com  
