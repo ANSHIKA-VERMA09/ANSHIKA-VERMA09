@@ -1,7 +1,7 @@
 # Hi, I'm Anshika Verma 👋
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;DSA+Problem+Solver;Coding+Mentor;Cloud+Learner&left=true&width=500&height=40&color=ffffff">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;DSA+Problem+Solver;Coding+Mentor;Cloud+Learner&left=true&width=500&height=40&color=#0000FF">
 </p>
 
 🎓 **B.Tech Computer Science (Cloud Computing) — Class of 2026**
@@ -139,8 +139,8 @@ Teaching coding strengthened my ability to break down complex problems and write
 ✔ Interactive maps integration  
 ✔ MVC architecture  
 
-🔗 **Live Demo:** ADD_LINK  
-🔗 **Repository:** ADD_LINK
+🔗 **Live Demo:** [[(https://travel-haven-) ](https://travel-haven-2r7v.onrender.com/listings)
+🔗 **Repository:**[FullStackWebsite-TravelHaven](https://github.com/ANSHIKA-VERMA09/FullStackWebsite-TravelHaven)
 
 ---
 
@@ -158,8 +158,7 @@ A frontend trading dashboard interface that allows users to visualize stock data
 ✔ Portfolio visualization  
 ✔ Clean component-based React architecture  
 
-🔗 **Live Demo:** ADD_LINK  
-🔗 **Repository:** ADD_LINK
+
 ---
 
 # 📬 Connect With Me
