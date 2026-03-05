@@ -86,3 +86,35 @@ Teaching coding has strengthened my ability to **break down complex problems and
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+## 🚀 Featured Projects
+
+### 🛒 ZipMart – Cloud Based E-commerce Platform
+Tech: Node.js • IBM Cloud • Cloudant • Watson Assistant
+
+✔ Product management system  
+✔ Order processing workflow  
+✔ AI chatbot for support  
+✔ Deployed using IBM Code Engine  
+
+🔗 Live Demo | 🔗 Repository
+
+---
+
+### 🌍 TravelHaven – Full Stack Travel Platform
+Tech: Node.js • Express • MongoDB • Mapbox
+
+✔ Authentication & Authorization  
+✔ Reviews and ratings system  
+✔ Interactive maps integration  
+✔ MVC architecture  
+
+🔗 Live Demo | 🔗 Repository
+
+---
+
+### 📈 InvestIQ – Trading Platform
+Tech: React 
+
+
+
+🔗 Live Demo | 🔗 Repository
