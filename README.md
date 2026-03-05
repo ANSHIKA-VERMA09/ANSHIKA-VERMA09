@@ -1,7 +1,7 @@
 # Hi, I'm Anshika Verma 👋
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java;DSA+Problem+Solver;Coding+Mentor;Cloud+Deployement&left=true&width=500&height=40&color=#0000FF">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Programming+Language;DSA+Problem+Solver;Coding+Mentor;Cloud+Deployement&left=true&width=500&height=40&color=#0000FF">
 </p>
 
 🎓 **B.Tech Computer Science (Cloud Computing) — Class of 2026**
