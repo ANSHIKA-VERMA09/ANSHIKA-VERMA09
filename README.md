@@ -1,61 +1,49 @@
-# Hi, I'm Anshika Verma 👋  
+# Hi, I'm Anshika Verma 👋
 
-### Software Engineer | AI-Integrated Full-Stack Applications | Java • MERN • Cloud Deployment
+🎓 **B.Tech Computer Science (Cloud Computing) — Class of 2026**  
+💻 **Full Stack Developer (MERN) | Java | DSA Enthusiast | Coding Mentor**
 
-I design and build scalable web applications and backend systems that solve real-world problems with measurable impact.
+I’m a final-year engineering student passionate about building scalable web applications and solving complex problems using **Data Structures & Algorithms**.
 
-During my recent Software Engineering Internship, I:
-- Built a full-stack personal finance platform handling 100+ monthly transactions  
-- Integrated an AI-based expense prediction model with 85% accuracy  
-- Improved UI efficiency by 30% and increased user retention by 15%  
-- Deployed applications using IBM Cloud infrastructure  
+Beyond development, I’ve also worked as a **coding mentor**, helping students strengthen programming fundamentals and improve their logical thinking through structured coding exercises.
 
-I combine strong Computer Science fundamentals with practical engineering experience to develop production-ready systems.
+I enjoy turning ideas into real-world applications — from designing backend systems and REST APIs to building responsive frontends and deploying projects on cloud platforms.
 
 ---
 
-## 👩‍💻 Engineering Focus
+## 🧠 Coding & Problem Solving Profiles
 
-- Full-Stack Development using MERN  
-- Backend system design & REST API architecture  
-- Database modeling & optimization  
-- Cloud deployment & scalable hosting  
-- Data Structures & Algorithms (200+ problems solved)
+<p align="left">
 
----
+<a href="https://leetcode.com/u/ANSHIKA-VERMA/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-## 🚀 Core Technical Skills
+<a href="https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2">
+<img src="https://img.shields.io/badge/Coding%20Ninjas-Code360-orange?style=for-the-badge"/>
+</a>
 
-**Languages:** Java, JavaScript  
-**Frontend:** React.js, Tailwind CSS, Bootstrap, EJS  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, IBM Cloudant, IBM Db2  
-**Cloud:** IBM Cloud, Code Engine  
-**Core CS:** OOPS, DBMS, Computer Networks, MVC Architecture, System Design Basics  
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
 
----
+</p>
 
-## 📊 Problem Solving & Competitive Coding
-
-- Solved 200+ DSA problems across platforms  
-- Consistent practice in SQL & backend logic  
-- Strong understanding of time & space complexity optimization  
-
-🔗 LeetCode: https://leetcode.com/u/ANSHIKA-VERMA/  
-🔗 Code360: https://www.naukri.com/code360/profile/08e54ab9-b8da-4cb4-bac1-814c50be19a2  
+- 🧩 **200+ DSA problems solved**
+- 📈 Consistent practice across multiple platforms
+- 💡 Strong foundation in **OOPS, DBMS, Computer Networks & Algorithms**
 
 ---
 
-## 🌱 Currently Learning
+## 👩‍🏫 Coding Mentorship
 
-- Advanced DSA patterns  
-- Scalable backend architecture  
-- System design fundamentals for production systems  
+Alongside development, I’ve mentored **20+ students in Python, Scratch, and JavaScript**, helping them improve their programming fundamentals and problem-solving skills.
+
+Key contributions:
+- Designed beginner-friendly coding exercises
+- Conducted structured programming lessons
+- Helped students improve coding performance by **~40%**
+
+Teaching coding has strengthened my ability to **break down complex problems and write cleaner, more understandable code**.
 
 ---
-
-## 📬 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/anshika-verma94/  
-🌐 Portfolio: <add-your-portfolio-link-here>  
-📧 Email: Anshika94Verma@gmail.com  
