@@ -1,7 +1,7 @@
 # Hi, I'm Anshika Verma 👋
 
 🎓 **B.Tech Computer Science (Cloud Computing) — Class of 2026**  
-💻 **Full Stack Developer (MERN) | Java | DSA Enthusiast | Coding Mentor**
+💻 **Full Stack Developer (MERN) | Java | DSA  | Coding Mentor**
 
 I’m a final-year engineering student passionate about building scalable web applications and solving complex problems using **Data Structures & Algorithms**.
 
